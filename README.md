@@ -10,7 +10,7 @@ Share the useful information, documentation and tips of Virbox Protector
 
 [Why select the Project Shielding Suite?](select-projetc-shielding-suit.md)
 
-[Best Practice--Protect .NET applications](netprotect.md)
+[Best Practice--Protect .NET applications](Netprotect.md)
 
 [Best Practice to protect Android Apps](appprotect.md)
 
