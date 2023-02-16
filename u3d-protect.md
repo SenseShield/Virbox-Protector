@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 ---
 sidebar_position: 4
 slug: Protect-Unity3D-applications-with-Virbox-Protector
 title: Protect Unity3D applications with Virbox Protector
 authors: endi
+---
+
+
+
 tags: [unity3d, guide]
 ---
 

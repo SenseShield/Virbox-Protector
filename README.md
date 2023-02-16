@@ -8,7 +8,7 @@ Share the useful information, documentation and tips of Virbox Protector
 
 [Protect Jar/War project with Java BCE mode](JavaBCEprotect.md)
 
-[Why select the Project Shielding Suite?](select-project-shielding-suit.md)
+[Why select the Project Shielding Suite?](select-projetc-shielding-suit.md)
 
 [Best Practice--Protect .NET applications](netprotect.md)
 
